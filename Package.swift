@@ -6,5 +6,5 @@
 import PackageDescription
 
 let package = Package(
-    name: "SwipeCellKit"
+    name: "SwipeCellKit2"
 )
